@@ -1,0 +1,42 @@
+.container__result{
+    .text{
+        text-align: center;
+        .text-result{   
+            font-family: Arial, Helvetica, sans-serif;
+            margin-top: 80px;
+        }
+        .resultBMI{
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 70px;
+            line-height: 90px;
+            color: #6655e5;
+            font-weight: 200;
+        }
+        .result{
+            font-family: Arial, Helvetica, sans-serif;
+            font-size: 20px;
+        }
+    }
+    img{
+        width: 100px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 60px;
+        
+    }
+    .button{
+        width: 120px;
+        height: 40px;
+        border:1px black solid;
+        background-color: white;
+        margin-top: 60px;
+        border-radius: 4px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+}
